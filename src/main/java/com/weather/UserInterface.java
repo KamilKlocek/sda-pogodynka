@@ -1,4 +1,4 @@
-package pogodynka; // todo use english names, add a primary package eg. com.
+package com.weather;
 
 import java.util.Scanner;
 
@@ -20,7 +20,7 @@ public class UserInterface {
 
             switch (response) {
                 case 1:
-                    System.out.println("");
+                    System.out.println();
                     break;
                 case 2:
                     System.out.println();
